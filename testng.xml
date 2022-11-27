@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/Users/aravindanathdm/Documents/PiplineDemo/POM_FW_27Nov22/src/test/java/testscripts/TC_RF_001.java">
+        <classes>
+            <class name="testscripts.TC_RF_001"/>
+
+        </classes>
+    </test>
+</suite>
